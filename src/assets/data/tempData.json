@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Session 1",
+    "materials": [
+      {
+        "id": 1,
+        "type": 1,
+        "title": "Judul vidio 1",
+        "required": true,
+        "previewable": true,
+        "date": "Sun Dec 11 2022 12:20:33 GMT+0700 (Western Indonesia Time)",
+        "duration": "06.30 Min",
+        "downloadable": true
+      },
+      {
+        "id": 2,
+        "type": 1,
+        "title": "Judul vidio 2",
+        "required": true,
+        "previewable": false,
+        "date": "Sun Nov 21 2022 10:30:33 GMT+0700 (Western Indonesia Time)",
+        "duration": "06.30 Min",
+        "downloadable": true
+      },
+      {
+        "id": 3,
+        "type": 2,
+        "title": "Judul onsite 1",
+        "required": true,
+        "previewable": false,
+        "date": "Sun Nov 21 2022 10:30:33 GMT+0700 (Western Indonesia Time)",
+        "duration": "06.30 Min",
+        "downloadable": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Session 2",
+    "materials": [
+      {
+        "id": 1,
+        "type": 1,
+        "title": "Judul vidio 1",
+        "required": true,
+        "previewable": true,
+        "date": "Sun Dec 11 2022 12:20:33 GMT+0700 (Western Indonesia Time)",
+        "duration": "06.30 Min",
+        "downloadable": true
+      },
+      {
+        "id": 2,
+        "type": 2,
+        "title": "Judul onsite 1",
+        "required": true,
+        "previewable": false,
+        "date": "Sun Nov 21 2022 10:30:33 GMT+0700 (Western Indonesia Time)",
+        "duration": "06.30 Min",
+        "downloadable": false
+      },
+      {
+        "id": 3,
+        "type": 1,
+        "title": "Judul vidio 2",
+        "required": true,
+        "previewable": false,
+        "date": "Sun Nov 21 2022 10:30:33 GMT+0700 (Western Indonesia Time)",
+        "duration": "06.30 Min",
+        "downloadable": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+.sortableItem {
+  @apply w-full flex items-center text-[24px];
+}

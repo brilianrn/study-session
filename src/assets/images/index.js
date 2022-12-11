@@ -1,0 +1,13 @@
+export { default as IconArrowGray } from './IconArrowGray.svg';
+export { default as IconBarrier } from './IconBarrier.svg';
+export { default as IconCamera } from './IconCamera.svg';
+export { default as IconCross } from './IconCross.svg';
+export { default as IconDot } from './IconDot.svg';
+export { default as IconDownload } from './IconDownload.svg';
+export { default as IconDrag } from './IconDrag.svg';
+export { default as IconEye } from './IconEye.svg';
+export { default as IconLocation } from './IconLocation.svg';
+export { default as IconPencil } from './IconPencil.svg';
+export { default as IconPlus } from './IconPlus.svg';
+export { default as IconThreeDots } from './IconThreeDots.svg';
+export { default as IconWallClock } from './IconWallClock.svg';
